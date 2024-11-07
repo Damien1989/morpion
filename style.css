@@ -1,7 +1,7 @@
 body {
     font-family: Roboto, Arial, Helvetica, sans-serif;
-    background-color: linear-gradient(to right, #283048, #859398);
-    color: #f1f1f1;
+    background-color: rgb(35, 68, 138);
+    color: #c55151;
     padding: clamp(20px, 5vw, 50px) 10px 10px;
 }
 
